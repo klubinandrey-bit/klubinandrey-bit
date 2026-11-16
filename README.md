@@ -1,129 +1,122 @@
+<div align="center">Привет! Я Андрей 👋
 
-<div align="center">
+Веб-разработчик
 
-# Hey, I'm a Vibe Coder 👋
+Создаю сайты и цифровые инструменты с помощью современных технологий и ИИ.
 
-### Turning ideas into functional digital products.
+Веб-разработка · UI/UX · Интерактивные приложения
 
-**Web Development · UI/UX · AI-Assisted Development**
+"HTML5" (https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white)
+"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-181818?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-181818?style=flat-square&logo=tailwindcss&logoColor=white)
+</div>---
 
-</div>
+01 / Обо мне
 
----
+Мне интересно пересечение технологий, дизайна и идей.
 
-## 01 / About Me
+Мне нравится находить повседневные проблемы, продумывать простые решения и превращать их в работающие сайты и цифровые инструменты.
 
-I'm interested in the intersection of technology, design, and ideas.
+Мой подход сочетает разработку с помощью ИИ, визуальное мышление и практические эксперименты.
 
-I enjoy finding everyday problems, thinking through simple solutions, and turning them into working websites and digital tools.
-
-My approach combines **AI-assisted development, visual thinking, and hands-on experimentation.**
-
-- Building websites and interactive web applications.
-- Exploring UI/UX and modern interface design.
-- Using AI as a development tool.
-- Learning by creating real projects.
+- Создаю сайты и интерактивные веб-приложения.
+- Изучаю UI/UX и современный дизайн интерфейсов.
+- Использую искусственный интеллект как инструмент разработки.
+- Учусь, создавая реальные проекты.
 
 ---
 
-## 02 / Tech Stack
+02 / Технологии и инструменты
 
-**Core Technologies**
+Основные технологии
 
-![HTML5](https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-181818?style=flat-square&logo=tailwindcss&logoColor=white)
+"HTML5" (https://img.shields.io/badge/HTML5-181818?style=flat-square&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-181818?style=flat-square&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white)
+"Tailwind CSS" (https://img.shields.io/badge/Tailwind-181818?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Tools & Platforms**
+Инструменты и платформы
 
-![Git](https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181818?style=flat-square&logo=githubpages&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-181818?style=flat-square&logo=cloudflare&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)
+"GitHub Pages" (https://img.shields.io/badge/GitHub_Pages-181818?style=flat-square&logo=githubpages&logoColor=white)
+"Cloudflare Pages" (https://img.shields.io/badge/Cloudflare_Pages-181818?style=flat-square&logo=cloudflare&logoColor=white)
 
-**Other Experience**
+Дополнительный опыт
 
 - localStorage
-- REST APIs
-- Responsive Web Design
-- AI-assisted coding
+- REST API
+- Адаптивная веб-разработка
+- Разработка с помощью ИИ
 
 ---
 
-## 03 / Featured Projects
+03 / Мои проекты
 
-### College Website
+Сайт колледжа
 
-A multi-page website for college competitions and olympiads.
+Многостраничный сайт, посвящённый конкурсам и олимпиадам колледжа.
 
-- 6 responsive pages
-- Dark interface
-- Interactive elements and animated counters
-- FAQ accordion
-- Yandex Forms integration
-- Published with GitHub Pages
+- 6 адаптивных страниц
+- Тёмная тема оформления
+- Интерактивные элементы и анимированные счётчики
+- Аккордеон с часто задаваемыми вопросами
+- Интеграция Яндекс Форм
+- Публикация через GitHub Pages
 
-### Freelancer Info
+Freelancer Info
 
-A mini-app designed to help organize freelance work.
+Мини-приложение для организации работы начинающего фрилансера.
 
-- Project pricing calculator
-- Client briefing checklist
-- Message generator
-- Project delivery checklist
-- Local data storage
+- Калькулятор стоимости проектов
+- Чек-лист подготовки к работе с клиентом
+- Генератор сообщений для клиентов
+- Чек-лист сдачи проекта
+- Локальное хранение данных
 
-### Other Experiments
+Другие эксперименты
 
-A collection of small projects and experiments:
+Коллекция небольших проектов и экспериментов:
 
 - SiteInfo
 - My Skills Dashboard
 - Мини-разработки Info
-- Sneaker Catalog
-- Barbershop Website with Online Booking
+- Каталог кроссовок
+- Сайт барбершопа с онлайн-записью
 
 ---
 
-## 04 / How I Work
+04 / Как я работаю
 
-```text
-01. Find a problem or an idea
+01. Нахожу проблему или интересную идею
        ↓
-02. Define the simplest useful solution
+02. Продумываю самое простое полезное решение
        ↓
-03. Build with AI-assisted development
+03. Создаю проект с помощью ИИ
        ↓
-04. Test on real devices
+04. Тестирую на реальных устройствах
        ↓
-05. Fix, improve, and refine
+05. Исправляю ошибки и улучшаю результат
        ↓
-06. Turn a prototype into a usable product
-```
+06. Превращаю прототип в готовый продукт
 
 ---
 
-## 05 / Currently Exploring
+05 / Что изучаю сейчас
 
-- JavaScript and frontend development
-- APIs and integrations
-- Interactive web applications
-- UI/UX and interface design
-- Telegram bots
-- Better AI-assisted development workflows
+- JavaScript и фронтенд-разработку
+- API и интеграции
+- Интерактивные веб-приложения
+- UI/UX и дизайн интерфейсов
+- Telegram-ботов
+- Более эффективные подходы к разработке с помощью ИИ
 
 ---
 
-<div align="center">
+<div align="center">Постоянно экспериментирую. Постоянно создаю.
 
-### Always experimenting. Always building.
-
-**Ideas → Design → Code → Product**
+Идея → Дизайн → Код → Продукт
 
 </div>
