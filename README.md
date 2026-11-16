@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/klubinandrey-bit/klubinandrey-bit/main/assets/profile-banner.svg" width="100%" alt="Андрей — веб-разработчик">
+
 # Привет! Я Андрей 👋
 
  Веб-разработчик
